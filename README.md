@@ -1,5 +1,5 @@
 # iocage-plugin-lidarr
-Unofficial [Lidarr](https://github.com/lidarr/Lidarr) iocage plugin for [FreeNAS](http://www.freenas.org) and [TrueNAS](https://www.trueos.org)
+Unofficial [Lidarr](https://github.com/lidarr/Lidarr) iocage plugin for [FreeNAS](http://www.freenas.org) and [TrueNAS](https://www.truenas.com)
 
 # Installing Plugins
 
