@@ -5,7 +5,7 @@ Unofficial [Lidarr](https://github.com/lidarr/Lidarr) iocage plugin for [FreeNAS
 
 ## Using Local File
 ```
-iocage fetch -P /the/path/to/lidarr.json ip4_addr="re0|192.168.0.100" -n lidarr
+iocage fetch -P /the/path/to/lidarr.json vnet="on" ip4_addr="vnet0|192.168.0.100" -n lidarr
 ```
 
 ## Pulling from Internet
